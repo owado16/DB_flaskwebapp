@@ -1,5 +1,6 @@
 import csv
-from app import db, Job, app
+from app import db, app
+from app.models import Job
 
 def update_requirements_from_file(filename, limit=3000):
     with app.app_context():

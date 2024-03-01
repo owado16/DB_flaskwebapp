@@ -1,5 +1,6 @@
 import csv
-from app import db, Job, Industry, app
+from app import db, app
+from app.models import Job, Industry  # Import Job model from models.py
 
 def populate_database_from_csv(filename, limit=3000):
     processed_count = 0
