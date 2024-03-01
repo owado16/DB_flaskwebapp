@@ -5,14 +5,13 @@ This repository contains the Job Search Web Application, a Flask-based web app d
 ## Getting Started
 To get started with this project, clone the repository to your local machine.
 
-bash
-Copy code
+## bash
 git clone https://github.com/owado16/DB_flaskwebapp.git
-cd yourprojectname
-Prerequisites
+cd DB_flaskwebapp
+## Prerequisites
 Before running the application, ensure you have Python 3.6 or newer installed on your system. You will also need pip for installing Python packages.
 
-##Installation
+## Installation
 Install the required Python packages by running:
 
 ### bash
