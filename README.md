@@ -7,7 +7,7 @@ To get started with this project, clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/owado16/DB_flaskwebapp.git
 cd yourprojectname
 Prerequisites
 Before running the application, ensure you have Python 3.6 or newer installed on your system. You will also need pip for installing Python packages.
@@ -22,12 +22,12 @@ To run the application on your local machine, execute:
 
 ### bash
 python run.py
-This will start a development server on http://127.0.0.1:5000/ where you can access the web application.
+This will start a development server on https://db-flaskwebapp.onrender.com where you can access the web application.
 
 ## Testing
 To ensure the application's reliability and stability, it's important to run tests regularly. To execute the test suite, run:
 
-###bash
+### bash
 python -m unittest
 This command will discover and run all tests in the project.
 
