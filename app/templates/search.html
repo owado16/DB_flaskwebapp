@@ -1,0 +1,13 @@
+<!-- index.html -->
+{% extends "base.html" %}
+
+{% block title %}Search Jobs{% endblock %}
+
+{% block content %}
+    <h1>Job Search</h1>
+    <form action="/search_result" method="POST">
+        <label for="job_title">Enter Job Title:</label>
+        <input type="text" id="job_title" name="job_title" required>
+        <button type="submit">Search</button>
+    </form>
+{% endblock %}
