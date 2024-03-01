@@ -1,13 +1,17 @@
 # Job Search Web Application
+
 ## Overview
+
 This repository contains the Job Search Web Application, a Flask-based web app designed to help users find job listings across various industries. The application features a straightforward UI for searching and viewing job opportunities.
 
 ## Getting Started
+
 To get started with this project, clone the repository to your local machine.
 
-## bash
+```bash
 git clone https://github.com/owado16/DB_flaskwebapp.git
 cd DB_flaskwebapp
+
 ## Prerequisites
 Before running the application, ensure you have Python 3.6 or newer installed on your system. You will also need pip for installing Python packages.
 
@@ -33,17 +37,17 @@ This command will discover and run all tests in the project.
 ### Maintenance
 Maintaining the application involves regular updates to dependencies, addressing deprecated features, and implementing improvements based on user feedback.
 
--- Update Dependencies: Regularly check for updates of Flask and other dependencies to improve security and performance.
--- Database Maintenance: Perform regular database backups and optimize performance through indexing and query optimization.
--- Code Quality: Use tools like Flake8 or Pylint to maintain code quality and consistency.
--- Contributing
--- Contributions to improve the application are welcome. Please follow the steps below to contribute:
+Update Dependencies: Regularly check for updates of Flask and other dependencies to improve security and performance.
+Database Maintenance: Perform regular database backups and optimize performance through indexing and query optimization.
+Code Quality: Use tools like Flake8 or Pylint to maintain code quality and consistency.
+Contributing
+Contributions to improve the application are welcome. Please follow the steps below to contribute:
 
--- Fork the repository.
--- Create a new branch (git checkout -b feature/AmazingFeature).
--- Commit your changes (git commit -m 'Add some AmazingFeature').
--- Push to the branch (git push origin feature/AmazingFeature).
--- Open a pull request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
