@@ -1,0 +1,21 @@
+* 8a76c7c : updated Procfile
+* bef5b32 : updated Procfile
+* 5ea869e : updated Procfile
+* d76b7cd : added gunicorn to requirements.txt
+* cb1a451 : updated Profile
+* 4272ebb : deleted run.py added main.py
+* baa3b8c : updated Profile
+* 0ac7d16 : removed Profile.procfile
+* 90ef48c : renamed Profile
+* 57c8a47 : versions of libraries-
+* e3a4c37 : updated flask to 3.0.0 and migration to 3.0.1
+* 90c62d7 : updated migration version from 3.1.1 to 4.0.0
+* 4b394c7 : updated migration version from 3.1.1 to 4.0.0
+* 0e754cf : updated run.py and ProctFile content
+* b19c0bc : changed ProctFile content
+* d825836 : removed ProctFile
+* 002e9bd : added render and populated the requirements.txt file
+* 063d356 : added render and populated the requirements.txt file
+* c00bb16 : implemented error handling
+* 04931fd : deleted and re-organized files
+* c5b5319 : first c
